@@ -425,13 +425,13 @@ DB5
 Text Label 3900 3030 2    60   ~ 0
 DB4
 Text Label 3990 3980 2    60   ~ 0
-ROTA
+GCOUNT
 Text Label 3990 4080 2    60   ~ 0
 ROTB
 Text Label 3995 4180 2    60   ~ 0
 ROTP
 Text Label 3885 1980 0    60   ~ 0
-GCOUNT
+ROTA
 $Comp
 L CONN_01X02 P5
 U 1 1 5A771591
